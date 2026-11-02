@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Local databases and uploaded/generated data
+database/
+*.db
+*.sqlite
+*.sqlite3
+uploads/
+exports/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
